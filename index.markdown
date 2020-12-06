@@ -6,3 +6,9 @@ layout: home
 ---
 
 Hello!
+
+Make all your changes in index.markdown. It's just a regular document.
+
+Check out _config.yml for some overall configuration stuff.
+
+Basically just type whatever you want on this page, then push to the branch.
