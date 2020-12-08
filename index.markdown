@@ -28,4 +28,3 @@ i copied this straight from the doc
 
 # Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
-
