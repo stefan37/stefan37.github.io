@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 driveId: 0B49zesfXjNXUZTVBelZZa0JWazg/preview
-driveId2: 1TJTScm5N5Z-qP1heKoTnHc7ZVsQj1HUq/view
+driveId2: 1TJTScm5N5Z-qP1heKoTnHc7ZVsQj1HUq/preview
 layout: home
 ---
 
