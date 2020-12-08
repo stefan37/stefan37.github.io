@@ -24,6 +24,8 @@ i copied this straight from the doc
 # Senior Project
 ![video](/MC-Five.mp4)
 
+{% include googleDrivePlayer.html id=page.1TJTScm5N5Z-qP1heKoTnHc7ZVsQj1HUq %}
+
 # Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
 
