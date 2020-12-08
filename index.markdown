@@ -25,7 +25,7 @@ i copied this straight from the doc
 ![video](/MC-Five.mp4)
 
 
-{% include googleDrivePlayer.html id=page.0B49zesfXjNXUZTVBelZZa0JWazg/view %}
+{% include googleDrivePlayer.html id=page.0B49zesfXjNXUZTVBelZZa0JWazg/preview %}
 
 # Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
