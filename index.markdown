@@ -13,10 +13,12 @@ Check out _config.yml for some overall configuration stuff.
 
 Basically just type whatever you want on this page, then push to the branch.
 
-# A section heading
+# Designer Engineer, ASML
+Most media relating to my work I can't share for IP reasons, but a video of the rough machining of my main part is [publicly available here](https://www.youtube.com/watch?v=3UsKrDwd37k)
 
+# Vehicle Engineering Intern, SpaceX
 images from the internet
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](/spacex.jpg)
 i copied this straight from the doc
 
 
