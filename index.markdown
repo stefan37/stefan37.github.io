@@ -22,10 +22,10 @@ images from the internet
 i copied this straight from the doc
 
 # Senior Project
-![MC-Five](/MC-Five.mp4)
 <video autoplay="autoplay" loop="loop" width="768" height="512">
-  <source src="MC-Five.mp" type="video/mp4">
+  <source src="MC-Five.mp4" type="video/mp4">
 </video>
+
 # Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
 
