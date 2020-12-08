@@ -22,8 +22,8 @@ images from the internet
 i copied this straight from the doc
 
 # Senior Project
-(/MC-Five.mp4)
+![MC-Five](/MC-Five.mp4)
 
 # Student Research, Gentner Lab
-(/sensor.png)
+[Multipollutant sensor](/sensor.png)
 
