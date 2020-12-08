@@ -21,9 +21,9 @@ images from the internet
 ![Tux, the Linux mascot](/spacex.jpg)
 i copied this straight from the doc
 
+# Senior Project
+(/MC-Five.mp4)
 
-# links go like this
-my favorite country is [artsakh](https://en.wikipedia.org/wiki/Republic_of_Artsakh).
+# Student Research, Gentner Lab
+(/sensor.png)
 
-
-you can also add images/videos directly to this folder and then serve them like that, but ask me about that first
