@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+driveId: 0B49zesfXjNXUZTVBelZZa0JWazg
 layout: home
 ---
 
@@ -24,7 +24,6 @@ i copied this straight from the doc
 # Senior Project
 ![video](/MC-Five.mp4)
 
-driveId: 0B49zesfXjNXUZTVBelZZa0JWazg
 {% include googleDrivePlayer.html id=page.driveId %}
 
 # Student Research, Gentner Lab
