@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 driveId: 0B49zesfXjNXUZTVBelZZa0JWazg/preview
+driveId2: 1TJTScm5N5Z-qP1heKoTnHc7ZVsQj1HUq/view
 layout: home
 ---
 
@@ -26,7 +27,7 @@ i copied this straight from the doc
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
-{% include googleDrivePlayer.html id=page.1TJTScm5N5Z-qP1heKoTnHc7ZVsQj1HUq/view %}
+{% include googleDrivePlayer.html id=page.driveId2 %}
 
 # Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
