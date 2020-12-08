@@ -14,20 +14,19 @@ Check out _config.yml for some overall configuration stuff.
 
 Basically just type whatever you want on this page, then push to the branch.
 
-# Designer Engineer, ASML
+## Designer Engineer, ASML
 Most media relating to my work I can't share for IP reasons, but a video of the rough machining of my main part is [publicly available here](https://www.youtube.com/watch?v=3UsKrDwd37k)
 
-# Vehicle Engineering Intern, SpaceX
-images from the internet
-![Tux, the Linux mascot](/spacex.jpg)
+## Vehicle Engineering Intern, SpaceX
+![SpaceX Rocket](/spacex.jpg)
 i copied this straight from the doc
 
-# Senior Project
+## Senior Project
 ![video](/MC-Five.mp4)
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
 {% include googleDrivePlayer.html id=page.driveId2 %}
 
-# Student Research, Gentner Lab
+## Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
