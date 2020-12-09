@@ -33,11 +33,7 @@ why does this still not work
 ![Multipollutant sensor](/sensor.png)
 
 ## MENG 325 Final Project: Custom 3D Printer
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=eGk6nSUrTAs" frameborder="0" allowfullscreen></iframe>
-Modified commercial 3D printer with custom extruding head to print with syringe to print with chocolate, shaving cream, etc
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eGk6nSUrTAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## MENG 562L Final Project: Model Steam Engine
-<iframe width="420" height="315" src="https://www.youtube.com/embed/W5o21o_sNfA" frameborder="0" allowfullscreen></iframe>
-Machined and assembled every component with mill and lathe
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W5o21o_sNfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
