@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stefan Colton Project Portfolio
+site.title: Stefan Colton Project Portfolio
 email: stefan.colton@gmail.com
 mobile: (646) 715-9764
 
