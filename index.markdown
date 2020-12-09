@@ -41,3 +41,6 @@ why does this still not work
 Built actuated beam and implemented PID controls.
 
 ## MENG 400 Computer-Aided Engineering Final Project: Scissor mechanism
+
+
+![Rover](/image_2020-12-08_014302.png)
