@@ -22,15 +22,21 @@ Most media relating to my work I can't share for IP reasons, but a video of the 
 i copied this straight from the doc
 
 ## Senior Project
-![video](/MC-Five.mp4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kytPU9OjL0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 why does this still not work
 
 ## Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
 
-## MENG 325 Final Project: Custom 3D Printer
+## MENG 325 Machine Parts and Mfg. Final Project: Custom 3D Printer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eGk6nSUrTAs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## MENG 562L Final Project: Model Steam Engine
+## MENG 562L Machine Shop Final Project: Model Steam Engine
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W5o21o_sNfA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## MENG 395 Mechatronics Final Project: Beam Balance
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aijrpa7sMA8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Built actuated beam and implemented PID controls.
+
+## MENG 400 Computer-Aided Engineering Final Project: Scissor mechanism
