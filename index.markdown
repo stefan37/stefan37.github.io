@@ -11,8 +11,6 @@ The publically available image above includes examples of propulsion components 
 ![Final Project](/image_2020-12-09_002156.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kytPU9OjL0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-why does this still not work
-
 ## Student Research, Gentner Lab
 ![Multipollutant sensor](/sensor.png)
 
