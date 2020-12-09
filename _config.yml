@@ -18,8 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stefan Colton Project Portfolio
+title: Stefan Colton's Project Portfolio
 email: stefan.colton@gmail.com
+author: Stefan Colton
 # Build settings
 theme: minima
 plugins:
