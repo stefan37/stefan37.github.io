@@ -37,5 +37,5 @@ why does this still not work
 Modified commercial 3D printer with custom extruding head to print with syringe to print with chocolate, shaving cream, etc
 
 ## MENG 562L Final Project: Model Steam Engine
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=W5o21o_sNfA&feature=youtu.be" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/W5o21o_sNfA" frameborder="0" allowfullscreen></iframe>
 Machined and assembled every component with mill and lathe
