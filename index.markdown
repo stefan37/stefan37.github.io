@@ -22,6 +22,7 @@ Most media relating to my work I can't share for IP reasons, but a video of the 
 i copied this straight from the doc
 
 ## Senior Project
+![Final Project](/image_2020-12-09_002156.png)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kytPU9OjL0c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 why does this still not work
