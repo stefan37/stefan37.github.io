@@ -5,11 +5,11 @@ layout: default
 
 ## Large Frame Lead Engineer, ASML, 2019-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3UsKrDwd37k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-The publically available video above shows the rough machining of my part; due to IP restrictions I cannot share my own media.
+The publicly available video above shows the rough machining of my part; due to IP restrictions I cannot share my own media.
 
 ## Vehicle Engineering Intern, SpaceX, 2018
 ![SpaceX Rocket](/image_2020-12-09_004847.png)
-The publically available image above includes examples of propulsion components on the Dragon 2 I worked on (I do not have my own images due to IP restrictions)
+The publicly available image above includes examples of propulsion components on the Dragon 2 I worked on (I do not have my own images due to IP restrictions)
 [Image from Teslarati](https://www.teslarati.com/spacex-crew-dragon-explosion-titanium-fire/)
 
 ## Student Research, Gentner Lab, 2017
